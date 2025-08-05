@@ -1,11 +1,6 @@
 
-#Python stuff
-G99_T3_venv/
-__pycache__/
+#virtual environments
+FinalProject_venv/
 
-#For testing
-test.py
-test.html
-test.css
-x
-App/react_example.html
+#python stuff
+__pycache__/
