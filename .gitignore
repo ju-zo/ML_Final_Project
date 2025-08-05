@@ -1,0 +1,11 @@
+
+#Python stuff
+G99_T3_venv/
+__pycache__/
+
+#For testing
+test.py
+test.html
+test.css
+x
+App/react_example.html
