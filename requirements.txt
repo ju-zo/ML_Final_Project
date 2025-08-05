@@ -1,0 +1,6 @@
+matplotlib
+numpy
+
+# for readTrafficSigns()
+pandas
+opencv-python
