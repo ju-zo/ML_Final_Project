@@ -1,6 +1,8 @@
 matplotlib
 numpy
+scikit-learn
 
 # for readTrafficSigns()
 pandas
 opencv-python
+
